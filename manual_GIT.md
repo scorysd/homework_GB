@@ -154,3 +154,6 @@ index e69de29..b546a21 100644
 #### На этом разрешите откланяться!
 
 ![](/img_1.png)
+
+---
+*Источник* - https://proglib.io/p/git-for-half-an-hour
