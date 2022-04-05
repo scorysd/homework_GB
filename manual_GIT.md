@@ -257,7 +257,6 @@ To https://адрес_сервиса.com
 
 #### На этом разрешите откланяться!
 
-![](/img_1.png)
 
 ---
 *Источник* - https://proglib.io/p/git-for-half-an-hour
